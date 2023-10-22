@@ -5,7 +5,7 @@
 #ifndef KAREL_THE_ROBOT_KAREL_H
 #define KAREL_THE_ROBOT_KAREL_H
 
-#include "../world/world.h"
+#include "../../world/world.h"
 #include <iostream>
 
 class Karel{
