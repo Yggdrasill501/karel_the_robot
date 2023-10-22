@@ -11,7 +11,6 @@
 class World{
 private:
     std::vector<std::vector<int>> grid;
-
 public:
     World();
 
